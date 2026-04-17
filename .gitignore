@@ -1,0 +1,7 @@
+.venv/
+models/
+__pycache__/
+*.pyc
+
+# 本地 API 调用日志（体积大且可能含敏感信息）
+src/api_logs/

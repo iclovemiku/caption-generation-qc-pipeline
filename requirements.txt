@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+gradio
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
+git+https://github.com/huggingface/transformers.git@refs/pull/44830/head
+accelerate
+soundfile
+librosa
+huggingface_hub
+qwen-omni-utils
